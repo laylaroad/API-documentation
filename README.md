@@ -63,7 +63,7 @@ Authorization: Bearer YOUR_API_KEY
 
 ### 3.2. Получение информации о рейсе
 
-Метод: `GET /flights/{id}`
+Метод: `GET /flights/{id}`  
 Описание: Возвращает детали рейса по его идентификатору.
 
 ### Пример запроса:
@@ -92,7 +92,7 @@ Authorization: Bearer YOUR_API_KEY
 
 ### 3.3. Бронирование билетов
 
-Метод: `POST /bookings/create`
+Метод: `POST /bookings/create`  
 Описание: Оформляет бронирование билетов.
 
 Тело запроса:
